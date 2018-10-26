@@ -35,9 +35,9 @@ Istruzioni per l'installazione:
 
 
 ## Memo
-**grassetto** **   
-*corsivo* *  
-**_Grassetto corsivo_** **_  
-~~Barrato~~ ~~  
-`monospace` 
+ **grassetto** **   
+ *corsivo* *  
+ **_Grassetto corsivo_** **_  
+ ~~Barrato~~ ~~  
+ `monospace` 
 
